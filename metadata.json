@@ -1,0 +1,6 @@
+{
+  "name": "Buku Induk Digital SMP Negeri 99 Jakarta",
+  "description": "Sistem Informasi Buku Induk Siswa Digital SMP Negeri 99 Jakarta - Pencatatan master data siswa, riwayat rombel, mutasi, dokumen, dan cetak lembar buku induk resmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
